@@ -23,3 +23,8 @@ whois -h irr.dbhost.net -i origin AS64496
 whois -i mnt-by MAINT-AS64496
 
 
+
+
+Sources:
+
+https://www.nanog.org/meetings/nanog51/presentations/Sunday/NANOG51.Talk34.NANOG51%20IRR%20Tutorial.pdf
